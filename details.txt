@@ -1,0 +1,17 @@
+Course Code  	SC9.307
+Course Name  	UG-Independent Study-4 Credits
+Credits  	4
+Faculty Name  	Subhadip Mitra
+ 
+Project Details
+Project Type  	CNS Elective
+Project Title  
+Introduction to Quantum Computing
+Project Description  
+Get a first experience of quantum computation, and understand the primary challenges and objectives of the field
+ 
+Initial Objectives
+1  	Read Chapter 1, 2, 4, 5, 6 of book 'Quantum Computation and Quantum Information' by Michael A. Nielsen and Isaac L. Chuang
+2  	Try out a basic quantum algorithm
+3  	Read and understand 1 paper on quantum random walk
+4  	
